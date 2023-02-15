@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/contact-list-redux/static/css/main.5b868ba5.css",
+    "main.js": "/contact-list-redux/static/js/main.f15791b5.js",
+    "static/media/background.jpg": "/contact-list-redux/static/media/background.b0d2add736f47083b14c.jpg",
+    "index.html": "/contact-list-redux/index.html",
+    "main.5b868ba5.css.map": "/contact-list-redux/static/css/main.5b868ba5.css.map",
+    "main.f15791b5.js.map": "/contact-list-redux/static/js/main.f15791b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b868ba5.css",
+    "static/js/main.f15791b5.js"
+  ]
+}
