@@ -1,0 +1,31 @@
+body{
+    background-image:url('./background.jpg') ;
+    background-size: cover;
+}
+
+h1, h4, p {
+    font-family: Lato;
+  }
+
+  h1, h4{
+    margin-top: 3%;
+    margin-left: 1%;
+    margin-bottom: 1%;
+  }
+
+  ul {
+    padding: 0;
+    margin:10px 0 0 0;
+  }
+  li {
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+    background-color:rgba(0, 255, 30, 0.788);
+    border-radius: 10px;
+  }
+  form {
+    margin-top: 2%;
+    margin-left: 1%;
+    margin-bottom: 3%;
+  }
