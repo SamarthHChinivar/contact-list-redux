@@ -1,7 +1,7 @@
-# **[Demonstration of Project](https://samarthhchinivar.github.io/contact-list-react)**
+# **[Demonstration of Project](https://samarthhchinivar.github.io/contact-list-redux)**
 ![contact-list](https://user-images.githubusercontent.com/104615876/218964563-cc0d84ec-e028-488f-816c-1293a723795c.jpg)
 
-- This website is available on domain https://samarthhchinivar.github.io/contact-list-react 
+- This website is available on domain https://samarthhchinivar.github.io/contact-list-redux 
 
 ### Getting Started with Create React App
 ![react-version](https://user-images.githubusercontent.com/104615876/189540317-b5c49c8e-fdad-42cb-ac48-11dc95d34367.png)
